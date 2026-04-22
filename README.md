@@ -47,7 +47,7 @@ This project integrates with the GitHub API to retrieve and display user data su
 
 ## Technical Architecture Diagram
 
-![Architecture Diagram](/README-Assets/TechnicalArchitectureDiagram.svg)]
+![Architecture Diagram](/README-Assets/TechnicalArchitectureDiagram.svg)
 
 ---
 
