@@ -1,6 +1,6 @@
 # GitHub Data Platform (Containerised Full-Stack System)
 
-[![Github Finder Demo](/README-Assets/Desktop.gif)][romie]
+![Github Finder Demo](/README-Assets/Desktop.gif)[romie]
 
 ---
 
