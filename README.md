@@ -47,7 +47,7 @@ This project integrates with the GitHub API to retrieve and display user data su
 
 ## Technical Architecture Diagram
 
-[![Architecture Diagram](/README-Assets/TechnicalArchitectureDiagram.svg)][romie]
+![Architecture Diagram](/README-Assets/TechnicalArchitectureDiagram.svg)]
 
 ---
 
@@ -73,9 +73,9 @@ This project integrates with the GitHub API to retrieve and display user data su
 
 ## Demo
 
-[![Desktop Demo](/README-Assets/Demo.gif)][romie]
+![Desktop Demo](/README-Assets/Demo.gif)
 
-[![Mobile Demo](/README-Assets/Mobile1.gif)][romie]
+![Mobile Demo](/README-Assets/Mobile1.gif)
 
 ---
 
