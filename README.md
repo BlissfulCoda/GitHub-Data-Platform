@@ -94,4 +94,4 @@ docker-compose up --build
 
 This project demonstrates the ability to design and implement production-style systems, going beyond frontend development to focus on backend architecture, infrastructure, and performance optimisation.
 
-It highlights how real-world applications are structured — from service orchestration and API design to caching and request routing — ensuring scalability, maintainability, and efficient data handling.
+It highlights how real-world applications are structured from service orchestration and API design to caching and request routing ensuring scalability, maintainability, and efficient data handling.
